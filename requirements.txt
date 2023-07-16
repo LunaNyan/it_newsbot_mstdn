@@ -1,0 +1,4 @@
+git+https://github.com/halcy/Mastodon.py.git
+Mastodon.py
+feedparser
+python-dateutil

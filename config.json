@@ -1,0 +1,16 @@
+{
+  "api_base_url": "Target Mastodon Instance URL",
+  "access_token": "Mastodon access token",
+  "visibility": "unlisted",
+  "last_checked": 0,
+  "feeds": [
+    {
+      "feed_name": "feed1",
+      "url": "http://feed_url1"
+    },
+    {
+      "feed_name": "feed2",
+      "url": "http://feed_url2"
+    }
+  ]
+}
